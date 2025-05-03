@@ -1,4 +1,4 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)\
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/ElectroBrine/QuillNotifications/graphs/commit-activity)\
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 <img src="https://raw.githubusercontent.com/ElectroBrine/QuillNotifications/master/src/main/resources/icon.png" width="300" height="300" alt="">
